@@ -1,1 +1,1 @@
-# studyProjects
+# 0x00
